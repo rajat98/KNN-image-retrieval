@@ -1,0 +1,9 @@
+[submodule "feature_extraction"]
+	path = feature_extraction
+	url = git@github.com:rajat98/MWD-phase1.git
+[submodule "dimensionality_reduction"]
+	path = dimensionality_reduction
+	url = git@github.com:rajat98/MWD-Phase2.git
+[submodule "multimedia_indexing"]
+	path = multimedia_indexing
+	url = git@github.com:rajat98/CSE-515-MWD-phase-3.git
